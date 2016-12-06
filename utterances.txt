@@ -1,0 +1,17 @@
+TurnOnIntent on
+TurnOnIntent lumos
+TurnOnIntent turn on
+TurnOnIntent turn on the light
+TurnOnIntent power on
+TurnOnIntent power on the light
+TurnOnIntent let there be light
+TurnOffIntent off
+TurnOffIntent turn off
+TurnOffIntent turn off the light
+TurnOffIntent power off
+TurnOffIntent power off the light
+SetColorIntent {color}
+SetColorIntent set the color to {color}
+SetColorIntent set the light's color to {color}
+SetColorIntent change the color to {color}
+SetColorIntent change the light's color to {color}

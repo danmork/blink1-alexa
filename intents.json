@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "intent": "TurnOnIntent"
+    },
+    {
+      "intent": "TurnOffIntent"
+    },
+    {
+      "intent": "SetColorIntent",
+      "slots": [
+        {
+          "name": "color",
+          "type": "LIST_OF_COLOR"
+        }
+      ]
+    }
+  ]
+}

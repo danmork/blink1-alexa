@@ -1,0 +1,28 @@
+{
+  "name": "blink1-alexa",
+  "version": "1.0.0",
+  "description": "Alexa app (in NodeJS) to write a color file to Amazon S3 to control a ThingM blink(1) light.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmork/blink1-alexa.git"
+  },
+  "keywords": [
+    "Blink1",
+    "Alexa"
+  ],
+  "author": "Dan Mork",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danmork/blink1-alexa/issues"
+  },
+  "homepage": "https://github.com/danmork/blink1-alexa#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "aws-sdk": "^2.7.10",
+    "color-name": "^1.1.1"
+  }
+}
